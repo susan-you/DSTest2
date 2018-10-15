@@ -1,2 +1,6 @@
 4
+<<<<<<< HEAD
 增加一行
+=======
+dev add one line here
+>>>>>>> dev
